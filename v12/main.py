@@ -13,13 +13,13 @@ label1 = Label(
 )
 label2 = Label(
     menu_inicial,
-    text='label2',
+    text='Tamara Cardoso Gruetzmann',
     bg='green',
     font='Arial 20'
 )
 label3 = Label(
     menu_inicial,
-    text='label3',
+    text='Felipe Schmaedecke',
     bg='blue',
     font='Arial 20'
 )
@@ -34,7 +34,7 @@ btn1 = Button(
 )
 btn2 = Button(
     menu_inicial,
-    text='Click2'
+    text='Clique para beijar o tigre'
 )
 btn3 = Button(
     menu_inicial,
